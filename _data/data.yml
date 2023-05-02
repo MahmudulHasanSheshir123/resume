@@ -64,11 +64,6 @@ education:
         university: North South University
         time: 2018 - 2022
         details: |
-          
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
           - Programming skills in various languages such as Python, C, and Java. Programming skills are essential for creating software systems, applications, and web development projects.
           - Mathematical skills in areas such as computational mathematics, discrete mathematics, and algorithms12. Mathematical skills are important for understanding the theoretical foundations of computing and solving complex problems.
           I applied these skills and knowledge in practical projects or assignments that demonstrate my abilities and potential in computer science. For example, I have created a portfolio of work that showcases my programming projects, web development projects, data analysis projects, etc12. I undertook a final individual project that involves developing software system using the skills and knowledge gained from the degree
@@ -138,7 +133,7 @@ publications:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        conference: Addison-Wesley, 2022
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -148,7 +143,7 @@ publications:
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "Comm. ACM 4 (2022), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
